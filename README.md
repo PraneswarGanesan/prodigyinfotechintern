@@ -4,21 +4,19 @@
 
 **Description:** Developed a landing page for a sneakers e-commerce website using HTML, CSS, and JavaScript.
 
-**Demo:** ![image](https://github.com/PraneswarGanesan/prodigyinfotechintern/assets/118578571/2d4ae45a-1eda-473f-8398-6d405f4ba7f0)
+**Demo:** ![image](https://github.com/PraneswarGanesan/prodigyinfotechintern/assets/118578571/65316712-84ab-4eda-b848-32240d492b9e)
 
+**Deployed Website:** https://serene-tiramisu-308e0a.netlify.app/
 
-**Deployed Website:** [View Landing Page]([landing_page_deployed_url](https://serene-tiramisu-308e0a.netlify.app/))
-
-**GitHub Repository:** [Explore Source Code](landing_page_github_url)
 
 ## Tic Tac Toe Game
 
 **Description:** Created a classic Tic Tac Toe game using HTML, CSS, and JavaScript.
 
-**Demo:**(https://github.com/PraneswarGanesan/prodigyinfotechintern/assets/118578571/affb507f-d5c9-44e8-b2f8-50b9048f0185)
-)
+**Demo:**![image](https://github.com/PraneswarGanesan/prodigyinfotechintern/assets/118578571/a8600f1c-fa40-4e62-adac-951f62dca5bb)
 
-**Deployed Website:** [Play Tic Tac Toe]([tic_tac_toe_deployed_url](https://beamish-fenglisu-a4222e.netlify.app/))
+
+**Deployed Website:** https://beamish-fenglisu-a4222e.netlify.app/
 
 
 ---
